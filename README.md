@@ -1,2 +1,2 @@
-# BeatCartographer
+# Beatographer
 Beatmap all Music
